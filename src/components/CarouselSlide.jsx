@@ -1,9 +1,9 @@
 import { ImageSlider } from "./ImageSlider";
-import car1 from "../assets/rj1.jpeg"
-import car2 from "../assets/rj2.jpeg"
-import car3 from "../assets/rj3.jpeg"
-import car4 from "../assets/rj4.jpeg"
-import car5 from "../assets/rj5.jpeg"
+import car1 from "../assets/rj6.jpg"
+import car2 from "../assets/rj6.jpg"
+import car3 from "../assets/rj6.jpg"
+import car4 from "../assets/rj6.jpg"
+import car5 from "../assets/rj6.jpg"
 
 const IMAGES = [
     { url: car1, alt: "Car One" },

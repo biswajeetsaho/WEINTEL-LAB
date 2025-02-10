@@ -15,7 +15,7 @@ function Footer() {
           <div className="side1">
             <div className="row">
               <div className="col-md-3">
-                <h1 className="logo">WEINTEL LAB</h1>
+                <h1 className="logo">WEINTEL LABS</h1>
                 <p className="footer-text">
                   Lorem ipsum Here are thriteen health benefits of apples Lorem
 
@@ -66,16 +66,16 @@ function Footer() {
                 <p className="footer-title">Social Media</p>
                 <ul style={{ display: "flex", listStyle: "none", gap: "20px", padding: 0,marginTop:"20px" }}>
                   <li>
-                    <a target="_blank" rel="noreferrer" href="https://github.com/darkleas" > <CiYoutube style={{ fontSize: "30px" }}/></a>
+                    <a target="_blank" rel="noreferrer" href="https://www.facebook.com/profile.php?id=61568249025109" > <CiYoutube style={{ fontSize: "30px" }}/></a>
                   </li>
                   <li>
-                    <a target="_blank" rel="noreferrer" href="https://twitter.com/burhankocadag0" > <FaTwitter style={{ fontSize: "30px" }}/></a>
+                    <a target="_blank" rel="noreferrer" href="https://www.facebook.com/profile.php?id=61568249025109" > <FaTwitter style={{ fontSize: "30px" }}/></a>
                   </li>
                   <li>
-                    <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/burhan-kocada%C4%9F-49a3331a5/"> <FaLinkedin style={{ fontSize: "30px" }}/></a>
+                    <a target="_blank" rel="noreferrer" href="https://www.facebook.com/profile.php?id=61568249025109"> <FaLinkedin style={{ fontSize: "30px" }}/></a>
                   </li>
                   <li>
-                    <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/burhan-kocada%C4%9F-49a3331a5/"> <FaInstagram style={{ fontSize: "30px" }}/></a>
+                    <a target="_blank" rel="noreferrer" href="https://www.instagram.com/weintel_labs?igsh=aXFibXllMW84amll"> <FaInstagram style={{ fontSize: "30px" }}/></a>
                   </li>
                 </ul>
               </div>
