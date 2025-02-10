@@ -1,6 +1,6 @@
 import Card from "./Card";
-import card1 from "../assets/card1.jpeg";
-import card2 from "../assets/card2.jpeg";
+import card1 from "../assets/card4.jpg";
+import card2 from "../assets/card5.webp";
 import card3 from "../assets/card3.jpeg";
 import { LuBrain } from "react-icons/lu";
 
